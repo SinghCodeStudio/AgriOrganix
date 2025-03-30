@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(217, 244, 232) !important;
+}
+
+.NavA {
+    background-color: #003d24;
+    height: 54px;
+    width: 100%;
+}
+
+.BellIconA {
+    width: 3.5%;
+}
+
+.MailIconA {
+    width: 3.5%;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+.DateTime {
+    width: 2%;
+    margin-right: 2%;
+}
+
+.DateTimeUpdate {
+    color: white;
+    margin-right: 69%;
+    margin-top: 1%;
+}

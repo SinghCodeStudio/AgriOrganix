@@ -1,0 +1,148 @@
+.AdminPic {
+    width: 32%;
+    height: 80px;
+    margin-bottom: 1%;
+    margin-top: 4%;
+}
+
+.Dashboard {
+    width: 13%;
+    margin-left: 9%;
+    margin-top: 1%;
+    margin-right: 7%;
+}
+
+.ListA {
+    width: 106%;
+}
+
+.InqA {
+    width: 15%;
+    margin-left: 7%;
+    margin-top: 1%;
+    margin-right: 7%;
+}
+
+.SalesA {
+    width: 18%;
+    margin-left: 7%;
+    margin-top: 1%;
+    margin-right: 4%;
+}
+
+.FarmerA {
+    width: 16%;
+    margin-left: 8%;
+    margin-top: 1%;
+    margin-right: 5%;
+}
+
+.DisA {
+    width: 16%;
+    margin-left: 8%;
+    margin-top: 1%;
+    margin-right: 5%;
+}
+
+.EmpA {
+    width: 16%;
+    margin-left: 8%;
+    margin-top: 1%;
+    margin-right: 5%;
+}
+
+.fixedA {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    /* Full viewport height */
+    width: 250px;
+    /* Sidebar width */
+    background-color: #f0f8f3;
+    /* Light green background */
+    border-right: 1px solid #ddd;
+    overflow-y: auto;
+    /* Add scrolling for long content */
+    padding: 0 15px;
+    z-index: 1000;
+    /* Ensures it stays above other content */
+}
+
+.LogoTop {
+    width: 61%;
+    margin-top: -14%;
+}
+
+.ImageDiv {
+    margin-top: -12%;
+}
+
+.ListDiv {
+    margin-top: 5;
+    margin-left: -4%;
+}
+
+.NavA {
+    font-weight: 700;
+    font-size: large;
+}
+
+.InqDiv {
+    margin-top: 16%;
+    padding-left: 23%;
+}
+
+.left{
+    padding-left: 23%;
+}
+
+/* Default link style */
+.nav-item {
+    height: 67px; /* Increased height */
+    margin: 0; /* Remove margin */
+    display: flex;
+    align-items: center; /* Vertically center text and icon */
+    justify-content: start; /* Align content to the left */
+  }
+  
+  .nav-item a {
+    text-decoration: none;
+    color: #333; /* Default text color */
+    width: 100%; /* Ensure the link takes up the full width */
+    height: 100%; /* Match the parent's height */
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Add spacing between the icon and text */
+    cursor: pointer;
+  }
+  
+  /* Active link style */
+  .nav-item.active-link {
+    background-color: rgb(217,244,232); /* Green background */
+    color: white; /* White text */
+  }
+  
+  .LinkAdmin {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+/* Active link style */
+.active-link {
+    background-color: rgb(217, 244, 232); /* Light green */
+    font-weight: bold;
+    color: black;
+    width: 100%;
+}
+
+/* Icon Styling */
+.LinkAdmin img {
+    width: 20px;
+    margin-right: 10px;
+}

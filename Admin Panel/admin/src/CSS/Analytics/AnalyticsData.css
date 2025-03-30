@@ -1,0 +1,27 @@
+/* DashboardCards.css */
+.dashboard-container {
+    padding: 20px;
+    margin-left: 1%;
+    margin-right: 1.5%;
+  }
+  
+  .dashboard-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+  }
+  
+  .dashboard-card p {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .dashboard-card h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  

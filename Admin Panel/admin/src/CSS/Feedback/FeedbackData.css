@@ -1,0 +1,20 @@
+.container {
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .cardBox {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5px 6% 0px 2%;
+  }
+  
+  .star {
+    font-size: 24px;
+    color: #ffd700;
+  }
+  
+  .star.empty {
+    color: #ddd;
+  }

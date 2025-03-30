@@ -1,0 +1,87 @@
+.employee-details-container {
+    background-color: white;
+    padding: 20px;
+  }
+  
+  .title {
+    color: #004d00;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .search-bar {
+    display: flex;
+    margin-bottom: 15px;
+  }
+  
+  .search-input {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .search-button {
+    background-color: #004d00;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .filter-section {
+    margin-bottom: 10px;
+  }
+  
+  .filter-label {
+    font-weight: bold;
+  }
+  
+  .filter-button {
+    margin: 5px;
+    border: none;
+    padding: 5px 10px;
+    background-color: #d7f7e1;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .employee-table {
+    width: 100%;
+    background-color: white;
+  }
+  
+  .edit-button {
+    color: blue;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  
+  .remove-button {
+    color: red;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  
+  .pagination {
+    margin-top: 10px;
+  }
+  
+  .page-button {
+    margin: 2px;
+    padding: 5px;
+    border: none;
+    background-color: #d7f7e1;
+    cursor: pointer;
+  }
+  
+  .page-button.active {
+    font-weight: bold;
+  }
+  
+  .export-link {
+    color: blue;
+    cursor: pointer;
+  }
+  

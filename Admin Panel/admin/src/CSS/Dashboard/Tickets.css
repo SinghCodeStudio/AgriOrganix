@@ -1,0 +1,55 @@
+.TicketBox{
+    width: 92.8% !important;
+    margin-left: 3% !important;
+}
+
+.TicketTitle{
+    margin-left: 4%;
+    margin-top: 1%;
+}
+
+.FilterBox{
+    margin-right: 1%;
+    margin-top: 1%;
+    width: 43%;
+}
+
+.FilterTitle{
+    margin-right: 4%;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.FilterButton{
+    background-color: rgb(217, 244, 232) !important;
+    width: 22%;
+    border-radius: 16px !important;
+    margin-right: 3%;
+    margin-top: -1% !important;
+    padding-top: 0.5% !important;
+    border-radius: 8px !important;
+}
+
+.PeopleIcon{
+    width: 53%;
+    margin-left: 15%;
+    margin-top: -1%;
+}
+
+.ThreeData{
+    line-height: 8px;
+    margin-bottom: 5%;
+}
+
+.ButtonManage{
+    margin-top: -6%;
+    margin-right: 5%;
+}
+
+.ManageHR{
+    margin-top: 5%;
+}
+
+.ManageHRT{
+    margin-bottom: 3%;
+}

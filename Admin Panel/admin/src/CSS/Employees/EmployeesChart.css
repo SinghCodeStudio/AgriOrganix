@@ -1,0 +1,29 @@
+
+  .legend-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  
+  .legend-item {
+    margin: 0 15px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .legend-dot {
+    height: 12px;
+    width: 12px;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+  
+  .green-dot {
+    background-color: green;
+  }
+  
+  .blue-dot {
+    background-color: blue;
+  }
+  

@@ -1,0 +1,33 @@
+.BoxInq {
+    padding: 20px;
+    margin-left: -30.5%;
+    margin-right: 2.2%;
+    margin-bottom: -2%;
+  }
+  
+  .summary-card {
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    margin: 10px 0;
+  }
+  
+  .summary-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-title {
+    font-size: 1rem;
+    color: black;
+    font-weight: 500;
+    margin-bottom: 8px;
+  }
+  
+  .card-number {
+    font-size:xxx-large;
+    font-weight: 700;
+    color: #333;
+  }
+  

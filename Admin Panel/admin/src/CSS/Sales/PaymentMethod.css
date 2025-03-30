@@ -1,0 +1,35 @@
+.PieChartPayment{
+    height: 369px;
+    margin-left: 6%;
+    margin-top: 3% !important;
+    margin-bottom: 3%;
+}
+
+.Payment{
+    margin-left: -6%;
+}
+
+.PaymentText{
+    margin-top: 10%;
+}
+
+.Date{
+    margin-top: 4%;
+    font-size: x-large;
+}
+
+.DateBtn{
+    font-size: large;
+    margin-top: -1%;
+    background-color: rgb(217, 244, 232) !important;
+    margin-left: 2%;
+}
+
+.UPI{
+    font-size: large;
+    margin-top: 8%;
+}
+
+.Trans{
+    font-size: large;
+}
